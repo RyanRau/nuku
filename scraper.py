@@ -54,7 +54,7 @@ class table_scraper:
 
 
 if __name__ == '__main__':
-    output_dir = './word_lists/'
+    output_dir = './animal_lists/'
     os.mkdir(output_dir)
 
     for list in wikipedia_lists:
